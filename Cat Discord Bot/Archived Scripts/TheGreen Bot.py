@@ -319,4 +319,4 @@ async def CatDetector(ctx, *arg):
         os.remove("Pet.jpg")
 
 
-bot.run("NjM3MzMxODU4MjgzMDM2Njcy.XwYn3w.EcudUBbsEzeqR86TYtBBdBLQhEQ")
+bot.run("")

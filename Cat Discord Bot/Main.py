@@ -1,4 +1,5 @@
 #Import catness libaries
+#blah blah
 import discord
 import math
 from discord.ext import commands
@@ -16,6 +17,7 @@ import urllib.request
 import numbers
 import decimal
 import mmap
+
 
 #Sets up Reddit API
 bot = commands.Bot(command_prefix='!')
@@ -278,4 +280,4 @@ async def RandomCat(ctx, *arg):
         embed.set_image(url="attachment://CatImage.jpg")
         await ctx.channel.send(file=file, embed=embed)
 
-bot.run("NjM3MzMxODU4MjgzMDM2Njcy.XwYn3w.EcudUBbsEzeqR86TYtBBdBLQhEQ")
+bot.run("")

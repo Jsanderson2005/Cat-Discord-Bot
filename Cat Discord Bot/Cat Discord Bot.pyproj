@@ -27,9 +27,6 @@
     <Compile Include="Main.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="module1.py">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="ImageTest.py">
       <SubType>Code</SubType>
     </Compile>
