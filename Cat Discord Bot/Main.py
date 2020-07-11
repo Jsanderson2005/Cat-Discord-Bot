@@ -1,5 +1,4 @@
 #Import catness libaries
-#blah blah
 import discord
 import math
 from discord.ext import commands
