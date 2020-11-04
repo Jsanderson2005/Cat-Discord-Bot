@@ -21,7 +21,7 @@ import mmap
 #Sets up Reddit API
 bot = commands.Bot(command_prefix='!')
 bot.remove_command('help')
-reddit = praw.Reddit(client_id='o7-kUtRSpT3iKA', client_secret='WLCfuJD6XJVSke9C979n1b-1_bI', user_agent='DISCORD:The green bot: version 1.0 (by /u/joshiwoshi2005)')
+reddit = praw.Reddit(client_id='', client_secret='', user_agent='')
 
 #Sets up cat AI
 np.set_printoptions(suppress=True)
